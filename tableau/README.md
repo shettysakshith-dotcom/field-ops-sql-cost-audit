@@ -59,12 +59,3 @@ the "Example" section of the top-level README.
    further joins are required inside Tableau.
 
 No workbook file is included; these are build specifications for the dashboards.
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with 6+ years of experience building
-automated pipelines, controls, and dashboards. His work includes risk
-indicator tracking, large-scale reconciliation, and reporting automation.
-
-For project-related questions, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com)
-or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).
